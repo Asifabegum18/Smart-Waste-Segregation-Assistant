@@ -1,0 +1,26 @@
+[
+  {
+    "keywords": ["food", "vegetable", "fruit", "leftover"],
+    "category": "Wet Waste",
+    "disposal": "Dispose in compost or wet waste bin",
+    "impact": "Reduces landfill waste and helps produce natural compost"
+  },
+  {
+    "keywords": ["plastic", "bottle", "wrapper", "polythene"],
+    "category": "Recyclable Waste",
+    "disposal": "Clean and place in recyclable bin",
+    "impact": "Recycling saves energy and reduces plastic pollution"
+  },
+  {
+    "keywords": ["paper", "newspaper", "cardboard"],
+    "category": "Dry Waste",
+    "disposal": "Dispose in dry waste bin or recycling unit",
+    "impact": "Reduces tree cutting and supports recycling"
+  },
+  {
+    "keywords": ["battery", "medicine", "e-waste", "charger"],
+    "category": "Hazardous Waste",
+    "disposal": "Dispose at authorized hazardous waste collection centers",
+    "impact": "Prevents toxic pollution and protects human health"
+  }
+]
